@@ -3,23 +3,6 @@ import axios from 'axios';
 
 import Articles from '../components/Article';
 
-/* const listData = [
-  {
-    title: 'Ant Design Title 1',
-  },
-  {
-    title: 'Ant Design Title 2',
-  },
-  {
-    title: 'Ant Design Title 3',
-  },
-  {
-    title: 'Ant Design Title 4',
-  },
-];
-
- */
-
 class ArticleList extends React.Component {
 
     state = {
